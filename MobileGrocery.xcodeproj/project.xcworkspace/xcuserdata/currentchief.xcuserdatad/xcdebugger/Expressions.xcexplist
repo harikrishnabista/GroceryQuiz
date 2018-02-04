@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "QuestionViewController.collectionView(_:cellForItemAt:):QuestionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cacheImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QuestionContainerViewController.btnSubmitTapped(_:):QuestionContainerViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.quiz.getNextQuestion(qns: self.currentQuestion)">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentPage">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentPage?.collectionView.indexPathsForSelectedItems">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentQuestion">
+            </PersistentString>
+            <PersistentString
+               value = "selItems">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QuestionContainerViewController.getCurrentIndex():QuestionContainerViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentQuestion">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
